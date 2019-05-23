@@ -19,6 +19,7 @@
 
 - 高等数学
 - 线性代数
+  - [生动线性代数](http://immersivemath.com/ila/#)
 - 概率论与数理统计
 
 
@@ -55,3 +56,23 @@
 - [AI 学习路线](https://mp.weixin.qq.com/s?__biz=MzU3MzQxMjE2NA==&mid=2247484783&idx=1&sn=5da1d596846b505e03469a0c58fb2690&chksm=fcc34344cbb4ca525d02b677dcaecd481898eb89f80389b27b57f283f8b42ae2b1fc44e9f14f&mpshare=1&scene=1&srcid=#rd)
 
 - [常见30种NLP任务的练手项目](https://mp.weixin.qq.com/s?__biz=Mzg4ODA3OTcyNA==&mid=2247483746&idx=1&sn=36e70d92abfaff22f051bc44dcb42cf3&chksm=cf81d561f8f65c772c90ea0b3064d54a6a42afa1b0160e97334457e2f2326719eed6cb71878a&mpshare=1&scene=1&srcid=0514DaXB7nphBnCDJcsWaf1C#rd)
+
+
+
+## 0X00003 Series Course 
+
+- [莫烦PYTHON](https://morvanzhou.github.io/tutorials/machine-learning/)
+- [磐创AI](http://www.tensorflownews.com/series/keras-tutorial/)
+- [AI算法工程师手册](http://www.huaxiaozhuan.com/)
+
+
+
+## 0X00004 Official Document 
+
+- [Keras官方文档-中文](https://keras.io/zh/)
+
+
+
+## 0X00005 Development Environment
+
+- colaboratory：在线 Jupyter 运行环境（需科学上网，在 Google Drive 里面使用）
