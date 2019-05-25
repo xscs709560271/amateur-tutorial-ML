@@ -64,6 +64,9 @@
 - [莫烦PYTHON](https://morvanzhou.github.io/tutorials/machine-learning/)
 - [磐创AI](http://www.tensorflownews.com/series/keras-tutorial/)
 - [AI算法工程师手册](http://www.huaxiaozhuan.com/)
+- [开放式机器学习课程mlcourse.ai](https://mlcourse.ai/)
+- [谷歌机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/ml-intro)
+- [deeplearning.ai：吴恩达机器学习Coursera](https://mooc.study.163.com/university/deeplearning_ai#/c)
 
 
 
@@ -76,3 +79,24 @@
 ## 0X00005 Development Environment
 
 - colaboratory：在线 Jupyter 运行环境（需科学上网，在 Google Drive 里面使用）
+
+
+
+## 0X00006  Books 
+
+罗列一下我看的关于ML的书（主要可能是试水吧）：
+
+- 《机器学习基础》第二版-英文（公式+作业+教材）
+  - 在线阅读：https://cs.nyu.edu/~mohri/ml18
+- 《Python人脸识别：从入门到工程实践》（在途）
+- 《利用Python进行数据分析（第二版）》（在途）
+- 《Keras深度学习实战》（在途）
+- 《机器学习实战：基于Scikit-Learn和Tensorflow》（在途）
+- 《Keras快速上手：基于Python的深度学习实战》（在途）
+- 《面向机器学习的特征工程》-英文（在途）
+  - 在线阅读：https://github.com/apachecn/feature-engineering-for-ml-zh
+- 《机器学习》（西瓜书：偏理论推导与公式）
+- 《TensorFlow机器学习实战指南》（TensorFlow基础与常见算法实现）
+- 《机器学习Web应用》（少数几个算法概念与Django框架知识）
+- 《Python机器学习实践指南》（常见的几个应用作为示例，对于无基础同学难度较高）
+- 《统计学习方法》（据说很经典，我还没看）
