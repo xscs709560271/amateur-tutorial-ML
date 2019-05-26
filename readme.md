@@ -102,6 +102,13 @@
 - 《统计学习方法》（据说很经典，我还没看）
 
 
+## 0X00007  Related Project
+
+- Rasa Stack(专业化聊天机器人)
+- DeepFakes(人脸图像视频流替换)
+
+
+
 
 ## PLUS
 
@@ -113,5 +120,3 @@
 - [入门级ECS云服务器4折](https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=qtg5cruy)
 - [企业级云服务器2折起](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=qtg5cruy)
 
-
-  
