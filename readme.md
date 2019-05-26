@@ -102,6 +102,13 @@
 - 《统计学习方法》（据说很经典，我还没看）
 
 
+## 0X00007  Related Project
+
+- Rasa Stack(专业化聊天机器人)
+- DeepFakes(人脸图像视频流替换)
+
+
+
 
 ## PLUS
 
