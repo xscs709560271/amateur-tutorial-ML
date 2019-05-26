@@ -100,3 +100,18 @@
 - 《机器学习Web应用》（少数几个算法概念与Django框架知识）
 - 《Python机器学习实践指南》（常见的几个应用作为示例，对于无基础同学难度较高）
 - 《统计学习方法》（据说很经典，我还没看）
+
+
+
+## PLUS
+
+这是专属的一些福利：
+
+### 1. 阿里云服务器优惠
+
+- [新用户最高￥2000云产品通用代金券](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=qtg5cruy)
+- [入门级ECS云服务器4折](https://promotion.aliyun.com/ntms/act/qwbk.html?userCode=qtg5cruy)
+- [企业级云服务器2折起](https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=qtg5cruy)
+
+
+  
